@@ -1,0 +1,22 @@
+
+.counter {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .light {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark {
+    background-color: black;
+    color: white;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
